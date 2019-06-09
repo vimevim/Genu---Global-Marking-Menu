@@ -62,12 +62,6 @@
       <DependentUpon>FormMarkingMenu.cs</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FixedMarkingMenu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FixedMarkingMenu.Designer.cs">
-      <DependentUpon>FixedMarkingMenu.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FloatingWithMousePos.resx">
